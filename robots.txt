@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://tanxiaoxiansheng.github.io/TanXiaoXianSheng.github.io/sitemap.xml
